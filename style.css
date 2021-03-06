@@ -1,0 +1,16 @@
+.header{ color : blue ; 
+         border: solid ; 
+         border-color: black;
+         display : flex;
+         justify-content: center;
+         background-color : orange;}
+
+.body1{text-align: center; }
+.body2{text-align :unset;}
+
+hr{color: black;
+   border-color: black;}
+
+html{background-color: coral;}
+.body1{background-color: blanchedalmond;}
+.body2{background-color: cornsilk;}
